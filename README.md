@@ -8,4 +8,4 @@
 
 ##주요 기술
 1. HTML, CSS, JAVAscript/JQuery 사용
-2. 2. Fontawesome 아이콘 사용
+2. Fontawesome 아이콘 사용
