@@ -10,4 +10,4 @@
 1. HTML, CSS, JAVAscript/JQuery 사용
 2. Fontawesome 아이콘 사용
 
-##데모사이트: https://github.com/soomimyme/famous-saying-app.git
+##데모사이트:  https://soomimyme.github.io/famous-saying-app/
